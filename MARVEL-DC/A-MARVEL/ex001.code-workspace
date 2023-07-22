@@ -1,0 +1,55 @@
+{
+	"folders": [
+		{
+			"path": "../ex001"
+		},
+		{
+			"path": "../ex002"
+		},
+		{
+			"path": "../ex003"
+		},
+		{
+			"path": "../ex004"
+		},
+		{
+			"path": "../ex005"
+		},
+		{
+			"path": "../ex006"
+		},
+		{
+			"path": "../ex007"
+		},
+		{
+			"path": "../ex008"
+		},
+		{
+			"path": "../ex009"
+		},
+		{
+			"path": "../ex010"
+		},
+		{
+			"path": "../ex011 - iframe"
+		},
+		{
+			"path": "../ex012 - form"
+		},
+		{
+			"path": "../ex013 - form"
+		},
+		{
+			"path": "../ex014"
+		},
+		{
+			"path": "../img"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "oi"
+	}
+}
